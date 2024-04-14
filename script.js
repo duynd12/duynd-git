@@ -4,3 +4,5 @@ function test(string) {
 }
 
 test("Dang duy");
+helasdsd;
+asdjhasd
