@@ -4,3 +4,4 @@ function test(string) {
 }
 
 test("Dang duy");
+hello('duynd');
